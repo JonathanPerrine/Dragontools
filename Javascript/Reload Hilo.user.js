@@ -40,7 +40,3 @@ else {
 }
 
 localStorage["LastGame"] = Win;
-    
-replayHilo()
-
-
